@@ -1,6 +1,6 @@
 [
   {
-    "chainId": 1,
+    "chainId": 1666600000,
     "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
     "symbol": "WONE",
     "name": "Wrapped ONE",
@@ -8,7 +8,7 @@
     "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/WONE.png"
   },
   {
-    "chainId": 1,
+    "chainId": 1666600000,
     "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
     "symbol": "BUSD",
     "name": "Binance USD",
@@ -16,7 +16,7 @@
     "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
   },
   {
-    "chainId": 1,
+    "chainId": 1666600000,
     "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
     "symbol": "1WBTC",
     "name": "Wrapped BTC",
@@ -24,7 +24,7 @@
     "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
   },
   {
-    "chainId": 1,
+    "chainId": 1666600000,
     "address": "0xF720b7910C6b2FF5bd167171aDa211E226740bfe",
     "symbol": "1WETH",
     "name": "Wrapped Ether",
@@ -32,7 +32,7 @@
     "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1WETH.png"
   },
   {
-    "chainId": 1,
+    "chainId": 1666600000,
     "address": "0x218532a12a389a4a92fC0C5Fb22901D1c19198aA",
     "symbol": "LINK",
     "name": "ChainLink Token",
