@@ -1,6 +1,6 @@
 {
   "name": "@mochiswap/harmony-token-list",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Harmony default token list",
   "main": "build/harmony-default.tokenlist.json",
   "files": [
