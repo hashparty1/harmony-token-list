@@ -38,5 +38,12 @@
     "name": "ChainLink Token",
     "decimals": 18,
     "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1LINK.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1LINK.png"
   }
 ]
